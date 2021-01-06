@@ -1,6 +1,9 @@
 # ntrappe.github.io
 # Interview Prep
-Data Structures, Sorting Algorithms, Runtimes, Interview Questions and overall prep for coding interviews.
+- Data Structures
+- Sorting Algorithms
+- Runtimes
+- Interview Questions 
 
 ---
 ## Data Structures
