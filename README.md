@@ -2,7 +2,7 @@
 ![BST](header.png)
 ***Data Structures, Sorting Algorithms, Runtimes, Interview Questions, & Common Questions***
 
-Designed by: @github/ntrappe 
+Designed by: @github/support
 
 ---
 ## Data Structures:
