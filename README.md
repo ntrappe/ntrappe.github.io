@@ -12,7 +12,7 @@
 #### Useful for: 
 Sorting data and everything, including rebalancing, can be done in O(log n).
 #### Notes: 
-Generally use unique values (don't want duplicates).
+*Generally use unique values (don't want duplicates).
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -28,7 +28,7 @@ Storing and accessing sequential data, temporarily storing, as an IO buffer
 (when reading from a file), lookup table, and hack for multiple return values.
 
 #### Notes: 
-Can implement a dynamic arrays from static ones by continuously allocating double the space
+*Can implement a dynamic arrays from static ones by continuously allocating double the space
 once the array is full.
 
 #### Time Complexity:
@@ -46,7 +46,7 @@ once the array is full.
 Useful in lists, queues, and stacks. Often used for circular (round robin) or adjacency lists.
 
 #### Notes: 
-Singly-linked will save up on space and it's simpler to implement 
+*Singly-linked will save up on space and it's simpler to implement 
 but it can make it more difficult to access previous nodes.
 Doubly-linked takes up double the space since we have 2x the pointers but easier to traverse backwards.
 
@@ -65,7 +65,7 @@ Useful for undo functions, checking for matching braces, other syntax (or TMs), 
 behind the scenes, and is used in DFS on a graph.
 
 #### Notes: 
-Has 2 primary operations: push and pop. Last in, first out: what you most recently pushed will be
+*Has 2 primary operations: push and pop. Last in, first out: what you most recently pushed will be
 what comes out when you pop.
 
 #### Time Complexity:
@@ -83,7 +83,7 @@ Used to model a real-world queue like standing in line, a sequence of elements, 
 manager for first come, first serve, or BFS graph traversal.
 
 #### Notes: 
-It's a linear data structure with has 2 main operations: dequeue ("polling") and enqueue ("offering"). 
+*It's a linear data structure with has 2 main operations: dequeue ("polling") and enqueue ("offering"). 
 You remove elements from the front and add elements to the back. Often done via singly-linked list since
 arrays (static) might not be big enough.
 
@@ -102,7 +102,7 @@ arrays (static) might not be big enough.
 Helpful for tracking item frequencies, if large files have equal contents (without opening files), 
 
 #### Notes: 
-Provides a mapping from keys to values via hashing (called a "key-value" pair where keys are unique). 
+*Provides a mapping from keys to values via hashing (called a "key-value" pair where keys are unique). 
 Keys are immutable.
 
 #### Collision Resolution Methods:
