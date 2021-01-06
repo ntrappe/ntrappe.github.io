@@ -1,8 +1,6 @@
 # ntrappe.github.io
 ![BST](header.png)
-***Data Structures, Sorting Algorithms, Runtimes, Interview Questions, & Common Questions***
-
-Designed by: @github/ntrappe
+***Data Structures, Sorting Algorithms, Runtimes, Interview Questions, & Common Questions. Designed by: @github/ntrappe***
 
 ---
 ## Data Structures:
