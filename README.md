@@ -1,10 +1,6 @@
 # ntrappe.github.io
 ![BST](header.png)
-- Data Structures
-- Sorting Algorithms
-- Runtimes
-- Interview Questions 
-  - Common Questions
+***Data Structures, Sorting Algorithms, Runtimes, Interview Questions, & Common Questions
 
 ---
 ## Data Structures:
