@@ -1,5 +1,4 @@
 # ntrappe.github.io
-# Interview Prep
 ![BST](header.png)
 - Data Structures
 - Sorting Algorithms
