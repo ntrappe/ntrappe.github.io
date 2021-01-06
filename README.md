@@ -4,7 +4,7 @@
 - Sorting Algorithms
 - Runtimes
 - Interview Questions 
- - Common Questions
+  - Common Questions
 
 ---
 ## Data Structures:
