@@ -4,7 +4,6 @@ Includes Data Structures, Runtimes, Sorting Algorithms, Interviews Tips, etc.
 
 ---
 ## Data Structures:
-:pushpin:
 
 ### :pushpin: BINARY SEARCH TREE
 #### Useful for: 
