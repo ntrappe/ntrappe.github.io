@@ -9,7 +9,7 @@
 #### Useful for: 
 Sorting data and everything, including rebalancing, can be done in O(log n).
 #### Notes: 
-*Generally use unique values (don't want duplicates).
+*Generally use unique values (don't want duplicates).*
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -63,7 +63,7 @@ behind the scenes, and is used in DFS on a graph.
 
 #### Notes: 
 *Has 2 primary operations: push and pop. Last in, first out: what you most recently pushed will be
-what comes out when you pop.
+what comes out when you pop.*
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -82,7 +82,7 @@ manager for first come, first serve, or BFS graph traversal.
 #### Notes: 
 *It's a linear data structure with has 2 main operations: dequeue ("polling") and enqueue ("offering"). 
 You remove elements from the front and add elements to the back. Often done via singly-linked list since
-arrays (static) might not be big enough.
+arrays (static) might not be big enough.*
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -100,7 +100,7 @@ Helpful for tracking item frequencies, if large files have equal contents (witho
 
 #### Notes: 
 *Provides a mapping from keys to values via hashing (called a "key-value" pair where keys are unique). 
-Keys are immutable.
+Keys are immutable.*
 
 #### Collision Resolution Methods:
 1. Open Addressing: Find another place within hash table by using an offset from original hash.
