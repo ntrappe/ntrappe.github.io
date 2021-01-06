@@ -6,7 +6,7 @@
 - Interview Questions 
 
 ---
-## Data Structures
+## :point_right: Data Structures ::point_left:
 
 ### BINARY SEARCH TREE
 #### Useful for: 
