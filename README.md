@@ -3,6 +3,7 @@
 
 ---
 ## Data Structures:
+:pushpin:
 
 ### :pushpin: BINARY SEARCH TREE
 #### Useful for: 
