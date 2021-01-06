@@ -118,7 +118,7 @@ Keys are immutable.
 ---
 ## Sorting Algorithms
 
-### :pushpin: Insertion Sort
+### :pushpin: [Insertion Sort](https://www.interviewcake.com/concept/java/insertion-sort)
 #### Useful for: 
 ...
 #### Time Complexity:
@@ -126,7 +126,7 @@ Keys are immutable.
 | ----------- | ----------- | ----------- | ----------- |
 | O(n)        | O(n^2)      | O(n^2)      | O(1)        | 
 
-### :pushpin: Selection Sort
+### :pushpin: [Selection Sort](https://www.interviewcake.com/concept/java/selection-sort)
 #### Useful for: 
 ...
 #### Time Complexity:
@@ -142,7 +142,7 @@ Ideal for combining lists.
 | ----------- | ----------- | ----------- | ----------- |
 | O(nlogn)    | O(nlogn)    | O(nlogn)    | O(n)        | 
 
-### :pushpin: Quick Sort
+### :pushpin: [Quick Sort](https://www.interviewcake.com/concept/java/quicksort)
 #### Useful for: 
 ...
 #### Time Complexity:
@@ -150,7 +150,7 @@ Ideal for combining lists.
 | ----------- | ----------- | ----------- | ----------- |
 | O(nlogn)    | O(nlogn)    | O(n^2)      | O(logn)     | 
 
-### :pushpin: Heap Sort
+### :pushpin: [Heap Sort](https://www.interviewcake.com/concept/java/heapsort)
 #### Useful for: 
 Can be chosen over quick sort because, in the case of a partially sorted array, it's worst case will always be O(nlogn) not O(n^2).
 #### Time Complexity:
