@@ -167,13 +167,11 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 - [ ] Review sorting algorithms
 - [ ] Practice LeetCode/HackerRank
 - [ ] Run through common behavioral questions
-- [ ] Practicd adding comments to your code like:
+- [ ] Practice adding comments to your code like:
 ```
 /**
  * Insertion Sort
- * Best case: O(n), Ave/Worst case: O(n^2), Space: O(1)
- * Starting from left to right, select current number and if it's
- * smaller than previous ones, keep moving it over to the left 
+ * Starting from left to right, select current number and if it's smaller than previous ones, keep moving it over to the left 
  */ 
 int* insertion_sort(int arr[]) {}
 ```
