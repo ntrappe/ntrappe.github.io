@@ -161,8 +161,7 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 ---
 ## Other Notes
 #### BFS Graph:
-~~Start at a node, add its neighbors to queue, and visit their neighbors (add to queue). ~~
-
+~~Start at a node, add its neighbors to queue, and visit their neighbors (add to queue).~~
 We know if all nodes have been visited by marking them as visited (bool).
 
 #### Common Questions:
