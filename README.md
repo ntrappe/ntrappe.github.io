@@ -26,7 +26,7 @@ Storing and accessing sequential data, temporarily storing, as an IO buffer
 
 #### Notes: 
 *Can implement a dynamic arrays from static ones by continuously allocating double the space
-once the array is full.
+once the array is full.*
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -45,7 +45,7 @@ Useful in lists, queues, and stacks. Often used for circular (round robin) or ad
 #### Notes: 
 *Singly-linked will save up on space and it's simpler to implement 
 but it can make it more difficult to access previous nodes.
-Doubly-linked takes up double the space since we have 2x the pointers but easier to traverse backwards.
+Doubly-linked takes up double the space since we have 2x the pointers but easier to traverse backwards.*
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -134,7 +134,7 @@ Keys are immutable.
 | ----------- | ----------- | ----------- | ----------- |
 | O(n^2)      | O(n^2)      | O(n^2)      | O(1)        | 
 
-### :pushpin: Merge Sort
+### :pushpin: [Merge Sort](https://www.interviewcake.com/concept/java/merge-sort)
 #### Useful for: 
 Ideal for combining lists.
 #### Time Complexity:
