@@ -120,7 +120,7 @@ Keys are immutable.*
 
 ### :pushpin: [Insertion Sort](https://www.interviewcake.com/concept/java/insertion-sort)
 #### Useful for: 
-...
+Small dataset and partially sorted.
 #### Time Complexity:
 | Best        | Average     | Worst       | Space       | 
 | ----------- | ----------- | ----------- | ----------- |
@@ -128,7 +128,7 @@ Keys are immutable.*
 
 ### :pushpin: [Selection Sort](https://www.interviewcake.com/concept/java/selection-sort)
 #### Useful for: 
-...
+Small dataset and partially sorted.
 #### Time Complexity:
 | Best        | Average     | Worst       | Space       | 
 | ----------- | ----------- | ----------- | ----------- |
