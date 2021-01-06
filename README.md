@@ -8,7 +8,7 @@
 ---
 ## Data Structures:
 
-### BINARY SEARCH TREE
+### :pushpin: BINARY SEARCH TREE
 #### Useful for: 
 Sorting data and everything, including rebalancing, can be done in O(log n).
 #### Notes: 
