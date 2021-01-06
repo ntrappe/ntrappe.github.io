@@ -1,12 +1,12 @@
 # ntrappe.github.io
-# Interview Prep
+# :point_right: Interview Prep :point_left:
 - Data Structures
 - Sorting Algorithms
 - Runtimes
 - Interview Questions 
 
 ---
-## :point_right: Data Structures ::point_left:
+## Data Structures:
 
 ### BINARY SEARCH TREE
 #### Useful for: 
