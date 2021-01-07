@@ -118,7 +118,7 @@ Keys are immutable.*
 ---
 ## Sorting Algorithms
 
-### :pushpin: [Insertion Sort](https://www.interviewcake.com/concept/java/insertion-sort)
+### :pushpin: [INSERTION SORT](https://www.interviewcake.com/concept/java/insertion-sort)
 #### Useful for: 
 Small dataset and partially sorted.
 #### Time Complexity:
@@ -126,7 +126,7 @@ Small dataset and partially sorted.
 | ----------- | ----------- | ----------- | ----------- |
 | O(n)        | O(n^2)      | O(n^2)      | O(1)        | 
 
-### :pushpin: [Selection Sort](https://www.interviewcake.com/concept/java/selection-sort)
+### :pushpin: [SELECTION SORT](https://www.interviewcake.com/concept/java/selection-sort)
 #### Useful for: 
 Small dataset and partially sorted.
 #### Time Complexity:
@@ -134,7 +134,7 @@ Small dataset and partially sorted.
 | ----------- | ----------- | ----------- | ----------- |
 | O(n^2)      | O(n^2)      | O(n^2)      | O(1)        | 
 
-### :pushpin: [Merge Sort](https://www.interviewcake.com/concept/java/merge-sort)
+### :pushpin: [MERGE SORT](https://www.interviewcake.com/concept/java/merge-sort)
 #### Useful for: 
 Ideal for combining lists.
 #### Time Complexity:
@@ -142,7 +142,7 @@ Ideal for combining lists.
 | ----------- | ----------- | ----------- | ----------- |
 | O(nlogn)    | O(nlogn)    | O(nlogn)    | O(n)        | 
 
-### :pushpin: [Quick Sort](https://www.interviewcake.com/concept/java/quicksort)
+### :pushpin: [QUICK SORT](https://www.interviewcake.com/concept/java/quicksort)
 #### Useful for: 
 ...
 #### Time Complexity:
@@ -150,15 +150,15 @@ Ideal for combining lists.
 | ----------- | ----------- | ----------- | ----------- |
 | O(nlogn)    | O(nlogn)    | O(n^2)      | O(logn)     | 
 
-### :pushpin: [Heap Sort](https://www.interviewcake.com/concept/java/heapsort)
+### :pushpin: [HEAP SORT](https://www.interviewcake.com/concept/java/heapsort)
 #### Useful for: 
 Can be chosen over quick sort because, in the case of a partially sorted array, it's worst case will always be O(nlogn) not O(n^2).
 #### Time Complexity:
 | Best        | Average     | Worst       | Space       | 
 | ----------- | ----------- | ----------- | ----------- |
 | O(n)        | O(nlogn)    | O(nlogn)    | O(1)        | 
-### Notes
-<button class="button-save large">See Code</button>
+
+<button class="button-save large">Big Fat Button</button>
 ---
 ## How to Prepare
 - [x] Review major data structures
