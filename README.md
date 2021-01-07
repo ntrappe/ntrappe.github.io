@@ -163,6 +163,8 @@ Ideal for combining lists.
 | ----------- | ----------- | ----------- | ----------- |
 | O(nlogn)    | O(nlogn)    | O(n^2)      | O(logn)     | 
 
+![LN](line.png)
+
 ### :pushpin: [HEAP SORT](https://www.interviewcake.com/concept/java/heapsort)
 #### Useful for: 
 Can be chosen over quick sort because, in the case of a partially sorted array, it's worst case will always be O(nlogn) not O(n^2).
@@ -193,6 +195,8 @@ int* insertion_sort(int arr[]) {}
 #### BFS Graph:
 ~~Start at a node, add its neighbors to queue, and visit their neighbors (add to queue).~~
 We know if all nodes have been visited by marking them as visited (bool).
+
+![LN](line.png)
 
 #### Common Questions:
 > How would you make this more efficient?
