@@ -1,8 +1,9 @@
 
 # CSE 110 Lab1
 ![BST](header.png)
-***Data Structures, Sorting Algorithms, Runtimes, Interview Questions, & Common Questions. Designed by: @github/ntrappe***
-[Data Structures](#Data-Structures)
+***[Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), Runtimes, Interview Questions, & Common Questions. Designed by: @github/ntrappe***
+
+
 ---
 ## Data Structures:
 
