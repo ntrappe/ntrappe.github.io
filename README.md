@@ -176,7 +176,7 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 | O(n)        | O(nlogn)    | O(nlogn)    | O(1)        | 
 
 ---
-## Programming Language
+## Programming Languages
 * C
 * C++
 * Python
