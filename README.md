@@ -3,7 +3,7 @@
 
 ![BST](header_v2.png)
 
-***[Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @github/ntrappe***
+***[Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @github/ntrappe***
 
 
 ---
@@ -175,6 +175,13 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 | ----------- | ----------- | ----------- | ----------- |
 | O(n)        | O(nlogn)    | O(nlogn)    | O(1)        | 
 
+---
+## Programming Language
+* C
+* C++
+* Python
+  * Tensorflow/Keras
+* Java
 
 ---
 ## How to Prepare
