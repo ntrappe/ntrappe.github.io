@@ -188,4 +188,4 @@ We know if all nodes have been visited by marking them as visited (bool).
 
 > Is there a better data structure to use?
 
-![foot](foote.png)
+![foot](footer.png)
