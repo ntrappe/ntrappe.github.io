@@ -3,8 +3,9 @@
 
 ![BST](header_v2.png)
 
-###### About ######
-***This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @github/ntrappe***
+###### This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). ######
+
+***Designed by: @github/ntrappe***
 
 
 ---
