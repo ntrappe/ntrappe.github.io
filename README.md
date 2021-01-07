@@ -3,13 +3,13 @@
 
 ![BST](header_v2.png)
 
-***[Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @github/ntrappe***
+###### ***[Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @github/ntrappe***
 
 
 ---
 ## Data Structures:
 
-###### :pushpin: BINARY SEARCH TREE
+### :pushpin: BINARY SEARCH TREE
 #### Useful for: 
 Sorting data and everything, including rebalancing, can be done in O(log n).
 #### Notes: 
