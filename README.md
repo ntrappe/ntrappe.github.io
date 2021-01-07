@@ -190,7 +190,7 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 - [ ] Practice LeetCode/HackerRank
 - [ ] Run through common behavioral questions
 - [ ] Practice adding comments to your code like:
-```
+```ruby
 /**
  * Insertion Sort
  * Starting from left to right, select current number and if it's smaller than previous ones, keep moving it over to the left 
