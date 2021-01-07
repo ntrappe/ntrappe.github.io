@@ -1,8 +1,6 @@
 
 # CSE 110 Lab1
 
-![LN](line.png)
-
 ![BST](header_v2.png)
 
 ***[Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @github/ntrappe***
@@ -206,7 +204,5 @@ We know if all nodes have been visited by marking them as visited (bool).
 > How would you make this more efficient?
 
 > Is there a better data structure to use?
-
-![LN](line.png)
 
 ![foot](footer.png)
