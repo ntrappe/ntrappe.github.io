@@ -206,6 +206,7 @@ We know if all nodes have been visited by marking them as visited (bool).
 > How would you make this more efficient?
 
 > Is there a better data structure to use?
----
+
+![LN](line.png)
 
 ![foot](footer.png)
