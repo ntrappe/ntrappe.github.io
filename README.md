@@ -13,7 +13,7 @@
 #### Useful for: 
 Sorting data and everything, including rebalancing, can be done in O(log n).
 #### Notes: 
-*Generally use unique values (don't want duplicates).*
+Generally use ***unique*** values (don't want duplicates).
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -30,8 +30,8 @@ Storing and accessing sequential data, temporarily storing, as an IO buffer
 (when reading from a file), lookup table, and hack for multiple return values.
 
 #### Notes: 
-*Can implement a dynamic arrays from static ones by continuously allocating double the space
-once the array is full.*
+Can implement a *dynamic array* from static ones by continuously allocating double the space
+once the array is full.
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -49,9 +49,8 @@ once the array is full.*
 Useful in lists, queues, and stacks. Often used for circular (round robin) or adjacency lists.
 
 #### Notes: 
-*Singly-linked will save up on space and it's simpler to implement 
-but it can make it more difficult to access previous nodes.
-Doubly-linked takes up double the space since we have 2x the pointers but easier to traverse backwards.*
+Singly-linked will save up on space and it's simpler to implement but it can make it more difficult to access previous nodes.
+Doubly-linked takes up ***double*** the space since we have 2x the pointers but easier to traverse backwards.*
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
