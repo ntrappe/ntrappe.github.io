@@ -1,6 +1,10 @@
 
 # CSE 110 Lab1
+
+![LN](line.png)
+
 ![BST](header_v2.png)
+
 ***[Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @github/ntrappe***
 
 
