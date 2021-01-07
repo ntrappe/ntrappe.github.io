@@ -20,6 +20,7 @@ Sorting data and everything, including rebalancing, can be done in O(log n).
 | Remove      | O(log n)    | O(n)        |
 | Search      | O(log n)    | O(n)        |
 
+![LN](line.png)
 
 ### :pushpin: ARRAYS
 #### Useful for: 
