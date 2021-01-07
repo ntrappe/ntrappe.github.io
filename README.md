@@ -3,7 +3,7 @@
 
 ![BST](header_v2.png)
 
-###### This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). ***Designed by: @github/ntrappe*** ###### 
+###### This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @ntrappe ###### 
 
 
 ---
@@ -107,13 +107,13 @@ arrays (static) might not be big enough.*
 Helpful for tracking item frequencies, if large files have equal contents (without opening files), 
 
 #### Notes: 
-*Provides a mapping from keys to values via hashing (called a "key-value" pair where keys are unique). 
-Keys are immutable.*
+Provides a mapping from keys to values via hashing (called a *"key-value" pair* where keys are unique). 
+Keys are immutable.
 
 #### Collision Resolution Methods:
-1. Open Addressing: Find another place within hash table by using an offset from original hash.
+1. **Open Addressing:** Find another place within hash table by using an offset from original hash.
 
-2. Separate Chaining: Use a separate data structure like a list to hold all different values (key-value pairs).
+2. **Separate Chaining:** Use a separate data structure like a list to hold all different values (key-value pairs).
 
 
 #### Time Complexity:
