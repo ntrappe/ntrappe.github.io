@@ -6,7 +6,8 @@
 ###### This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @ntrappe ###### 
 
 
----
+![LN](line.png)
+
 ## Data Structures:
 
 ### :pushpin: BINARY SEARCH TREE
@@ -22,7 +23,7 @@ Generally use ***unique*** values (don't want duplicates).
 | Remove      | O(log n)    | O(n)        |
 | Search      | O(log n)    | O(n)        |
 
-![LN](line.png)
+---
 
 ### :pushpin: ARRAYS
 #### Useful for: 
@@ -42,7 +43,7 @@ once the array is full.
 | Remove      | ---         | O(n)        | to remove an item, create new array and copy over vals to keep
 | Search      | O(n)        | O(n)        |
 
-![LN](line.png)
+---
 
 ### :pushpin: LINKED-LISTS
 #### Useful for: 
@@ -60,7 +61,7 @@ Doubly-linked takes up ***double*** the space since we have 2x the pointers but 
 | Remove      | O(n)        | O(n)        | 
 | Search      | O(n)        | O(n)        |
 
-![LN](line.png)
+---
 
 ### :pushpin: STACKS
 #### Useful for: 
@@ -79,7 +80,7 @@ what comes out when you pop.*
 | Peek/Top    | O(1)        | O(1)        | 
 | Search      | O(n)        | O(n)        | scan all elements if not on top
 
-![LN](line.png)
+---
 
 ### :pushpin: QUEUES
 #### Useful for: 
@@ -100,7 +101,7 @@ arrays (static) might not be big enough.*
 | Contains    | O(n)        | O(n)        | might need to scan thru all elements
 | Remove      | O(n)        | O(n)        |
 
-![LN](line.png)
+---
 
 ### :pushpin: HASH MAP
 #### Useful for: 
@@ -123,7 +124,7 @@ Keys are immutable.
 | Remove      | O(1)        | O(n)        | 
 | Insert      | O(1)        | O(n)        | 
 
----
+![LN](line.png)
 ## Sorting Algorithms
 
 ### :pushpin: [INSERTION SORT](https://www.interviewcake.com/concept/java/insertion-sort)
@@ -134,7 +135,7 @@ Small dataset and partially sorted.
 | ----------- | ----------- | ----------- | ----------- |
 | O(n)        | O(n^2)      | O(n^2)      | O(1)        | 
 
-![LN](line.png)
+---
 
 ### :pushpin: [SELECTION SORT](https://www.interviewcake.com/concept/java/selection-sort)
 #### Useful for: 
@@ -144,7 +145,7 @@ Small dataset and partially sorted.
 | ----------- | ----------- | ----------- | ----------- |
 | O(n^2)      | O(n^2)      | O(n^2)      | O(1)        | 
 
-![LN](line.png)
+---
 
 ### :pushpin: [MERGE SORT](https://www.interviewcake.com/concept/java/merge-sort)
 #### Useful for: 
@@ -154,7 +155,7 @@ Ideal for combining lists.
 | ----------- | ----------- | ----------- | ----------- |
 | O(nlogn)    | O(nlogn)    | O(nlogn)    | O(n)        | 
 
-![LN](line.png)
+---
 
 ### :pushpin: [QUICK SORT](https://www.interviewcake.com/concept/java/quicksort)
 #### Useful for: 
@@ -164,7 +165,7 @@ Ideal for combining lists.
 | ----------- | ----------- | ----------- | ----------- |
 | O(nlogn)    | O(nlogn)    | O(n^2)      | O(logn)     | 
 
-![LN](line.png)
+---
 
 ### :pushpin: [HEAP SORT](https://www.interviewcake.com/concept/java/heapsort)
 #### Useful for: 
@@ -174,7 +175,8 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 | ----------- | ----------- | ----------- | ----------- |
 | O(n)        | O(nlogn)    | O(nlogn)    | O(1)        | 
 
----
+![LN](line.png)
+
 ## Programming Languages
 * C
 * C++
@@ -182,7 +184,8 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
   * Tensorflow/Keras
 * Java
 
----
+![LN](line.png)
+
 ## How to Prepare
 - [x] Review major data structures
 - [ ] Review your resume and be able to discuss all previous work experience/research/projects 
@@ -198,13 +201,14 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 int* insertion_sort(int arr[]) {}
 ```
 
----
+![LN](line.png)
+
 ## Other Notes
 #### BFS Graph:
 ~~Start at a node, add its neighbors to queue, and visit their neighbors (add to queue).~~
 We know if all nodes have been visited by marking them as visited (bool).
 
-![LN](line.png)
+---
 
 #### Common Questions:
 > How would you make this more efficient?
