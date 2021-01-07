@@ -215,4 +215,12 @@ We know if all nodes have been visited by marking them as visited (bool).
 
 > Is there a better data structure to use?
 
+> Find the longest nonrepeating substring.
+
+> Determine if the string is an anagram or palindrome.
+
+> Count all the leaf nodes. Count all the nodes in a level. Count all the nodes with one child.
+
+> When you square a list of numbers, how would you resort them in ascending order?
+
 ![foot](footer.png)
