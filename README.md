@@ -1,6 +1,6 @@
 
 # Title
-Includes Data Structures, Runtimes, Sorting Algorithms, Interviews Tips, etc.
+**_Includes Data Structures, Runtimes, Sorting Algorithms, Interviews Tips, etc._**
 
 ---
 ## Data Structures:
@@ -158,7 +158,7 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 | ----------- | ----------- | ----------- | ----------- |
 | O(n)        | O(nlogn)    | O(nlogn)    | O(1)        | 
 
-<button class="button-save large">Big Fat Button</button>
+
 ---
 ## How to Prepare
 - [x] Review major data structures
