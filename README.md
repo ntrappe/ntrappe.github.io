@@ -1,2 +1,2 @@
 # ntrappe.github.io
-CSE 110 Github Pages
+## Nicole Trappe's User Page ##
