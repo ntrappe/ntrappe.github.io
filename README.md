@@ -180,9 +180,11 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 ## Programming Languages
 * C
 * C++
+  * **Tip**: to avoid having to write std: constantly, use `using namespace std;`
 * Python
-  * Tensorflow/Keras
+  * **Tip**: use Tensorflow/Keras if you need general ML models like regression, PCA, Decision Trees, KNN, SVM, etc.
 * Java
+  * **Tip**: know the difference between abstact classes and interfaces
 
 ![LN](line.png)
 
