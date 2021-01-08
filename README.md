@@ -184,6 +184,7 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 * Python
   * **Tip**: use [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/) if you need general ML models like regression, 
   PCA, Decision Trees, KNN, SVM, etc.
+    * To use these packages, treat them the same as any other import: `python import tensorflow as tf`
 * Java
   * **Tip**: know the difference between abstact classes and interfaces
 
