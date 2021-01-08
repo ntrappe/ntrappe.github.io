@@ -51,7 +51,7 @@ Useful in lists, queues, and stacks. Often used for circular (round robin) or ad
 
 #### Notes: 
 Singly-linked will save up on space and it's simpler to implement but it can make it more difficult to access previous nodes.
-Doubly-linked takes up ***double*** the space since we have 2x the pointers but easier to traverse backwards.*
+Doubly-linked takes up ***double*** the space since we have 2x the pointers but easier to traverse backwards.
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -69,8 +69,8 @@ Useful for undo functions, checking for matching braces, other syntax (or TMs), 
 behind the scenes, and is used in DFS on a graph.
 
 #### Notes: 
-*Has 2 primary operations: push and pop. Last in, first out: what you most recently pushed will be
-what comes out when you pop.*
+Has 2 primary operations: *push* and *pop*. **Last in, first out**: what you most recently pushed will be
+what comes out when you pop.
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -88,9 +88,9 @@ Used to model a real-world queue like standing in line, a sequence of elements, 
 manager for first come, first serve, or BFS graph traversal.
 
 #### Notes: 
-*It's a linear data structure with has 2 main operations: dequeue ("polling") and enqueue ("offering"). 
-You remove elements from the front and add elements to the back. Often done via singly-linked list since
-arrays (static) might not be big enough.*
+It's a linear data structure with has 2 main operations: *dequeue* ("polling") and *enqueue* ("offering"). 
+You **remove** elements from the **front** and add elements to the back. Often done via singly-linked list since
+arrays (static) might not be big enough.
 
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
@@ -180,9 +180,10 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 ## Programming Languages
 * C
 * C++
-  * **Tip**: to avoid having to write std: constantly, use `using namespace std;`
+  * **Tip**: to avoid having to write "std:" constantly, use `using namespace std;`
 * Python
-  * **Tip**: use Tensorflow/Keras if you need general ML models like regression, PCA, Decision Trees, KNN, SVM, etc.
+  * **Tip**: use [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/) if you need general ML models like regression, 
+  PCA, Decision Trees, KNN, SVM, etc.
 * Java
   * **Tip**: know the difference between abstact classes and interfaces
 
