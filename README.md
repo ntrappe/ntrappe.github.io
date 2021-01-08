@@ -193,7 +193,7 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 - [ ] Practice LeetCode/HackerRank
 - [ ] Run through common behavioral questions
 - [ ] Practice adding comments to your code like:
-```ruby
+```c++
 /**
  * Insertion Sort
  * Starting from left to right, select current number and if it's smaller than previous ones, keep moving it over to the left 
@@ -211,16 +211,16 @@ We know if all nodes have been visited by marking them as visited (bool).
 ---
 
 #### Common Questions:
-> How would you make this more efficient?
+> How would you make this more efficient? (general)
 
-> Is there a better data structure to use?
+> Is there a better data structure to use? (general)
 
-> Find the longest nonrepeating substring.
+> Find the longest nonrepeating/even/odd/etc substring. (Google/Amazon)
 
-> Determine if the string is an anagram or palindrome.
+> Determine if the string is an anagram or palindrome. (Amazon)
 
-> Count all the leaf nodes. Count all the nodes in a level. Count all the nodes with one child.
+> Count all the leaf nodes. Count all the nodes in a level. Count all the nodes with one child. (Uber)
 
-> When you square a list of numbers, how would you resort them in ascending order?
+> When you square a list of numbers, how would you resort them in ascending order? (Uber)
 
 ![foot](footer.png)
