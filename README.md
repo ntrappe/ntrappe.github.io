@@ -167,6 +167,7 @@ Keys are immutable.
        }
      }
   ```
+  * **To Run:** compile with `javac Helloworld.java` then run `java Helloworld`
   * **Tip**: know the difference between abstact classes and interfaces
 
 ![LN](line.png)
