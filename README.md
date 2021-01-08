@@ -178,9 +178,35 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 ![LN](line.png)
 
 ## Programming Languages
-* C/C++
+* C: Procedural-oriented language; no references (just pointers) + no function overloading
+  * **Basic ex:** 
+  ```c
+     #include <stdio.h>
+     int main() {
+       printf(“Hello World!”);
+       return 0;
+     } 
+  ```
+  * **To Run:** `gcc -o hi Helloworld.c` then run `hi`
+* C++: Object-oriented language; references, pointers, function overloading.
+  * **Basic ex:** 
+  ```c++
+     #include <stdio.h>
+     int main() {
+       cout << "Hello World!" << endl;
+       return 0;
+     }
+  ```
+  * **To Run:** `g++ -o hi Helloworld.c` then run `./hi`
   * **Tip**: to avoid having to write "std:" constantly, use `using namespace std;`
 * Python
+  * **Basic ex:** 
+  ```python
+     def hello():
+       print("Hello World!")
+     hello()
+  ```
+  * **To Run:** `python Helloworld.c`
   * **Tip**: use [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/) if you need general ML models like regression, 
   PCA, Decision Trees, KNN, SVM, etc.
     * To use these packages, treat them the same as any other import: `import tensorflow as tf`
