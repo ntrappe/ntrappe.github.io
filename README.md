@@ -3,7 +3,7 @@
 
 ![BST](header_v2.png)
 
-###### This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#Data-Structures), [Sorting Algorithms](#Sorting-Algorithms), [Programming Languages](#Programming-Languages), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @ntrappe ###### 
+###### This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#Data-Structures), [Programming Languages](#Programming-Languages), [Sorting Algorithms](#Sorting-Algorithms), [Preparation](#How-to-Prepare), & [Common Questions](#Common-Questions). Designed by: @ntrappe ###### 
 
 
 ![LN](line.png)
@@ -116,7 +116,6 @@ Keys are immutable.
 
 2. **Separate Chaining:** Use a separate data structure like a list to hold all different values (key-value pairs).
 
-
 #### Time Complexity:
 | Operation   | Average     | Worst       | 
 | ----------- | ----------- | ----------- |
@@ -125,6 +124,53 @@ Keys are immutable.
 | Insert      | O(1)        | O(n)        | 
 
 ![LN](line.png)
+
+## Programming Languages
+* C: Procedural-oriented language; no references (just pointers), no function overloading, + memory management.
+  * **Basic ex:** 
+  ```c
+     #include <stdio.h>
+     int main() {
+       printf(“Hello World!”);
+       return 0;
+     } 
+  ```
+  * **To Run:** `gcc -o hi Helloworld.c` then run `hi`
+* C++: Object-oriented language; references, pointers, function overloading + memory management.
+  * **Basic ex:** 
+  ```c++
+     #include <stdio.h>
+     int main() {
+       cout << "Hello World!" << endl;
+       return 0;
+     }
+  ```
+  * **To Run:** `g++ -o hi Helloworld.c` then run `./hi`
+  * **Tip**: to avoid having to write "std:" constantly, use `using namespace std;`
+* Python: Object-oriented/scripting language; pointers, function overloading + automatic garbage collection.
+  * **Basic ex:** 
+  ```python
+     def hello():
+       print("Hello World!")
+     hello()
+  ```
+  * **To Run:** `python Helloworld.c`
+  * **Tip**: use [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/) if you need general ML models like regression, 
+  PCA, Decision Trees, KNN, SVM, etc.
+    * To use these packages, treat them the same as any other import: `import tensorflow as tf`
+* Java: Object-oriented language; references, method overloading + automatic garbage collection.
+  * **Basic ex:**
+  ```java
+     public class HelloWorld {
+       public static void main (String[] args) {
+	        System.out.println ("Hello World!");
+       }
+     }
+  ```
+  * **Tip**: know the difference between abstact classes and interfaces
+
+![LN](line.png)
+
 ## Sorting Algorithms
 
 ### :pushpin: [INSERTION SORT](https://www.interviewcake.com/concept/java/insertion-sort)
@@ -177,43 +223,6 @@ Can be chosen over quick sort because, in the case of a partially sorted array, 
 
 ![LN](line.png)
 
-## Programming Languages
-* C: Procedural-oriented language; no references (just pointers) + no function overloading
-  * **Basic ex:** 
-  ```c
-     #include <stdio.h>
-     int main() {
-       printf(“Hello World!”);
-       return 0;
-     } 
-  ```
-  * **To Run:** `gcc -o hi Helloworld.c` then run `hi`
-* C++: Object-oriented language; references, pointers, function overloading.
-  * **Basic ex:** 
-  ```c++
-     #include <stdio.h>
-     int main() {
-       cout << "Hello World!" << endl;
-       return 0;
-     }
-  ```
-  * **To Run:** `g++ -o hi Helloworld.c` then run `./hi`
-  * **Tip**: to avoid having to write "std:" constantly, use `using namespace std;`
-* Python
-  * **Basic ex:** 
-  ```python
-     def hello():
-       print("Hello World!")
-     hello()
-  ```
-  * **To Run:** `python Helloworld.c`
-  * **Tip**: use [Tensorflow](https://www.tensorflow.org/)/[Keras](https://keras.io/) if you need general ML models like regression, 
-  PCA, Decision Trees, KNN, SVM, etc.
-    * To use these packages, treat them the same as any other import: `import tensorflow as tf`
-* Java
-  * **Tip**: know the difference between abstact classes and interfaces
-
-![LN](line.png)
 
 ## How to Prepare
 - [x] Review major data structures
