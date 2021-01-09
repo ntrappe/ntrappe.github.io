@@ -1,5 +1,5 @@
 # ntrappe.github.io
-#### CSE 110 Github Pages
+#### CSE 110 Lab 1: Github Pages
 
 Checkout out the [GitHub Markdown Page](index.md) or the [GitHub Site](https://ntrappe.github.io/).
 
