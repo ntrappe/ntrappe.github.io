@@ -2,6 +2,7 @@
 # CSE 110 Lab1
 
 ![BST](header_v2.png)
+![BST](https://github.com/ntrappe/ntrappe.github.io/blob/main/header_v2.png)
 
 ###### This page will provide all the tools and tricks for fellow CSE undergraduates to excel in coding interviews. It includes: [Data Structures](#data-structures), [Programming Languages](#programming-languages), [Sorting Algorithms](#sorting-algorithms), [Preparation](#how-to-prepare), & [Common Questions](#common-questions). Designed by: [Nicole Trappe](https://github.com/ntrappe) ###### 
 
